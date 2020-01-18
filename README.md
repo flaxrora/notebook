@@ -1,7 +1,7 @@
-# EN
-## Notebook
+#### EN
+# Notebook
 My notes I want to share with people.
 
-# TR
-## Not Defterim
+#### TR
+# Not Defterim
 Notlarımı insanlarla paylaşmak istiyorum.
